@@ -4,4 +4,8 @@ this is git practic
 this is git practic for stu
 # virat
 hii virat
+# pinki
+hii pinki 
+# pintu
+hii pinku
 
